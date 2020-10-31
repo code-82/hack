@@ -1,1 +1,1 @@
-jupyter
+jupyter code for variational autoencoders
